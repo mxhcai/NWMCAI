@@ -1,2 +1,3 @@
 # NWMCAI
-Training 
+Hello -World
+Hi there,  learning new things are always fun!
